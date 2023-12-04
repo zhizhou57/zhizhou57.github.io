@@ -18,6 +18,8 @@ title: YesLiu's Blog # the main title
 
 tagline: 大模型方向-大四在读 # it will display as the sub-title
 
+markdown: kramdown
+
 description: >- # used by seo meta and the atom feed
   博客记录学习过程
 
