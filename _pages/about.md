@@ -19,17 +19,18 @@ redirect_from:
 
 I am a second-year PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Jiajun Zhang.
 
-My previous research focused on the Multi-Modal LLM and Reasoning RL, and I am now seeking for internship opportunities about Multi Modal Agentic RL.
+My previous research focused on the MLLM Reasoning, and now I am working on LLM-based general working agent.
 
-<!-- # 🔥 News -->
-- Seeking for internship opportunities about Multi Modal Agentic RL.
+# 🔥 News
+- [2026.02] 2 papers have been accepted by CVPR 2026.
+- [2026.01] 1 paper has been accepted by ICLR 2026.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mcq.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405)
+[**CVPR 2026**][Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405)
 **Yesheng Liu**, H Li, H Xu, B Pei, J Wang, M Zhao, J Zheng, Z He, JG Yao, B Qin, ... 2025.
 
 </div></div>
@@ -37,7 +38,7 @@ My previous research focused on the Multi-Modal LLM and Reasoning RL, and I am n
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/measure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](https://arxiv.org/abs/2510.26865)
+[**CVPR 2026**][Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](https://arxiv.org/abs/2510.26865)
 F Lin, **Yesheng Liu**, H Xu, C Yue, Z He, M Zhao, MH Chen, J Liu, JG Yao, X Yang. 2025.
 
 </div></div>
@@ -45,7 +46,7 @@ F Lin, **Yesheng Liu**, H Xu, C Yue, Z He, M Zhao, MH Chen, J Liu, JG Yao, X Yan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/tool.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models](https://openreview.net/forum?id=...)
+[**ICLR 2026**] [ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models](https://openreview.net/forum?id=...)
 Bowen Fang, Wen Ye, Yunyue Su, Jinghao Zhang, Qiang Liu, **Yesheng Liu**, Xin Sun, Shu Wu, Jiabing Yang, Baole Wei, Liang Wang.
 
 </div></div>
