@@ -19,15 +19,16 @@ redirect_from:
 
 I am a second-year PhD student at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Jiajun Zhang.
 
-My previous research focused on the MLLM Reasoning, and now I am working on LLM-based general working agent.
+My previous research focused on the MLLM Reasoning, and now I am working on LLM-based general working agent and Long Horizon tasks.
 
 # 🔥 News
+- [2026.05] 1 paper has been accepted by ICML 2026.
 - [2026.02] 2 papers have been accepted by CVPR 2026.
 - [2026.01] 1 paper has been accepted by ICLR 2026.
 
-# 📝 Publications 
+# 📝 Seleted Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mcq.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/mcq.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2026**][Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405)
@@ -35,7 +36,7 @@ My previous research focused on the MLLM Reasoning, and now I am working on LLM-
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/measure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/measure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2026**][Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](https://arxiv.org/abs/2510.26865)
@@ -43,7 +44,7 @@ F Lin, **Yesheng Liu**, H Xu, C Yue, Z He, M Zhao, MH Chen, J Liu, JG Yao, X Yan
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/tool.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/tool.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICLR 2026**] [ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models](https://openreview.net/forum?id=...)
